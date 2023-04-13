@@ -4,7 +4,8 @@ Original PyTorch implementation for 'Multi-Semantic Fusion Model for Generalized
 ## Approach
 ![Alt pic](/figure/fig2.jpg)
 
-## Dependencies
+## Requirements
+<!-- ## Dependencies -->
 * Python >= 3.8.13
 * Torch >= 1.12.1
 * Scikit-Learn
