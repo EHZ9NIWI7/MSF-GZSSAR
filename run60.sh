@@ -9,8 +9,8 @@ for ss in 5 12
 do
     tdir="sk_feats/shift_"$ss"_r/"
     edir="sk_feats/shift_val_"$ss"_r/"
-    wdir_1="result/"$ss"_r"
-    wdir_2="result/"$ss"_r_val"
+    wdir_1="results/"$ss"_r"
+    wdir_2="results/"$ss"_r_val"
 
     for tm in "lb" "ad" "md" "ad_md" "lb_ad_md"
     do
