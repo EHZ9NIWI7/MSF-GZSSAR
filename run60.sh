@@ -14,7 +14,7 @@ do
 
     for tm in "lb" "ad" "md" "ad_md" "lb_ad_md"
     do
-        echo "+++++++++++++++++++++++++++++++++"
+        echo "-----------------------------------"
         echo "NTU"$ntu"u"$ss" "$tm
 
         echo "=========="
