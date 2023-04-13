@@ -18,12 +18,18 @@ To run the code, the skeleton features should be downloaded first. The skeleton 
 
 ## Running
 <code>bash run60.sh</code> for the training&testing on NTU-60
+
 <code>bash run120.sh</code> for the training&testing on NTU-120
 
 ## Details
 * Seen-Unseen Splits for GZSSAR: 
+  
   The seen-unseen splits for NTU-60 & NTU-120 (in <code>label_splits</code>) are the same with the SynSE, see [here](https://github.com/skelemoa/synse-zsl) for details.
+
 * Skeleton Features:
+  
   The skeleton features (in <code>sk_feats</code>) are extracted through [ShiftGCN](https://github.com/kchengiva/Shift-GCN).
+  
 * Text Features:
+  
   3 different types of semantic information (i.e., class labels, action description and motion description) are provided in <code>sem_info</code>.The text features of the semantic information are provided in <code>text_feats</code>. They are extracted through the pre-trained ViT-B/32 which is the text encoder of [CLIP](https://github.com/openai/CLIP).
