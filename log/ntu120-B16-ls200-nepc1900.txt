@@ -1,0 +1,11 @@
+zsl_acc: 70.87, seen_acc: 60.22, unseen_acc: 60.17, h_mean: 60.20,    in 120u10-lb
+zsl_acc: 59.89, seen_acc: 54.96, unseen_acc: 54.71, h_mean: 54.83,    in 120u10-ad
+zsl_acc: 55.37, seen_acc: 60.70, unseen_acc: 46.87, h_mean: 52.90,    in 120u10-md
+zsl_acc: 63.52, seen_acc: 50.45, unseen_acc: 58.90, h_mean: 54.35,    in 120u10-ad_md
+zsl_acc: 69.34, seen_acc: 46.07, unseen_acc: 67.03, h_mean: 54.61,    in 120u10-lb_ad_md
+
+zsl_acc: 48.76, seen_acc: 59.15, unseen_acc: 38.33, h_mean: 46.51,    in 120u24-lb
+zsl_acc: 50.65, seen_acc: 59.25, unseen_acc: 39.01, h_mean: 47.05,    in 120u24-ad
+zsl_acc: 47.59, seen_acc: 57.32, unseen_acc: 38.37, h_mean: 45.97,    in 120u24-md
+zsl_acc: 55.91, seen_acc: 53.92, unseen_acc: 49.27, h_mean: 51.49,    in 120u24-ad_md
+zsl_acc: 60.29, seen_acc: 57.14, unseen_acc: 49.90, h_mean: 53.27,    in 120u24-lb_ad_md
