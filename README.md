@@ -1,5 +1,5 @@
 # MSF-GZSSAR
-Original PyTorch implementation for 'Multi-Semantic Fusion Model for Generalized Zero-Shot Skeleton-based Action Recognition' (MSF-GZSSAR) accepted by ICIG 2023.
+An original PyTorch implementation of 'Multi-Semantic Fusion Model for Generalized Zero-Shot Skeleton-based Action Recognition' (accepted by ICIG 2023).
 
 ## Approach
 ![Alt pic](/figure/fig2.jpg)
