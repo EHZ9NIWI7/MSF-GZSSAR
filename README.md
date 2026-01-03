@@ -33,3 +33,14 @@ To run the code, the skeleton features should be downloaded first. The skeleton 
 * Text Features:
   
   3 different types of semantic information (i.e., class labels, action description and motion description) are provided in <code>sem_info</code>.The text features of the semantic information are provided in <code>text_feats</code>. They are extracted through the pre-trained ViT-B/32 which is the text encoder of [CLIP](https://github.com/openai/CLIP).
+
+## Citation
+```bibtex
+@inproceedings{li2023multi,
+  title={Multi-semantic fusion model for generalized zero-shot skeleton-based action recognition},
+  author={Li, Ming-Zhe and Jia, Zhen and Zhang, Zhang and Ma, Zhanyu and Wang, Liang},
+  booktitle={International Conference on Image and Graphics},
+  pages={68--80},
+  year={2023},
+  organization={Springer}
+}
