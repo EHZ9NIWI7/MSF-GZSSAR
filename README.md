@@ -1,5 +1,5 @@
 # MSF-GZSSAR
-This is the official implementation of the paper [**'Multi-Semantic Fusion Model for Generalized Zero-Shot Skeleton-based Action Recognition'**](https://link.springer.com/chapter/10.1007/978-3-031-46305-1_6), which has been accepted by ICIG 2023.
+This is the official implementation of the paper [**'Multi-Semantic Fusion Model for Generalized Zero-Shot Skeleton-based Action Recognition'**](https://link.springer.com/chapter/10.1007/978-3-031-46305-1_6). (ICIG 2023)
 
 ## Approach
 ![Alt pic](/figure/fig2.jpg)
@@ -36,7 +36,7 @@ To run the code, the skeleton features should be downloaded first. The skeleton 
 
 ## Citation
 ```bibtex
-@inproceedings{li2023multi,
+@inproceedings{Li2023MSF,
   title={Multi-semantic fusion model for generalized zero-shot skeleton-based action recognition},
   author={Li, Ming-Zhe and Jia, Zhen and Zhang, Zhang and Ma, Zhanyu and Wang, Liang},
   booktitle={International Conference on Image and Graphics},
